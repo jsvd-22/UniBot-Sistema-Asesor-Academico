@@ -1,0 +1,11 @@
+# Dependencias de Node.js para evitar subirlas al repositorio
+node_modules/
+
+# Variables de entorno y contraseñas
+.env
+
+# Archivos temporales del propio sistema
+.DS_Store
+
+# Archivos de eliminación de npm
+npm-debug.log*

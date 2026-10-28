@@ -1,0 +1,22 @@
+{
+  "name": "unibot-sistema-asesor-academico",
+  "version": "1.0.0",
+  "description": "Sistema de asesor académico para estudiantes universitarios, como asignación de la tarea integradora de APO I en la Universidad Icesi.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "unibot",
+    "icesi",
+    "apo-i",
+    "javascript",
+    "nodejs",
+    "asesoria-academica"
+  ],
+  "author": "Samuel Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
